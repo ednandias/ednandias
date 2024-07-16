@@ -6,7 +6,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednan-dias&show_icons=true&theme=radical)
 
-### My Techs
+### Technichal Knowledges
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
@@ -26,6 +26,7 @@
 ### Contact
 
 Feel free to text me on:
+
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ednandias/)
 - [![Instagram](https://img.shields.io/badge/-Instagram-D62976?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ednan.dias/)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ednan.741@gmail.com)
