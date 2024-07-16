@@ -2,11 +2,11 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednan-dias&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednan-dias&show_icons=true&theme=algolia)
 
 ## Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ednan-dias&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ednan-dias&layout=compact&theme=algolia)
 
 ### Technichal Knowledges
 
@@ -19,9 +19,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
-### Projects
+### Best Repositories
 
-- [AI Web Application](https://github.com/username/ai-web-app): An advanced web application integrating AI features.
+- [MySQL Comandos](https://github.com/ednan-dias/mysql-comandos): A simple guide with a few commands
 - [Open Source Library](https://github.com/username/open-source-lib): A useful library for web developers.
 - [Personal Blog](https://github.com/username/personal-blog): My personal blog where I share insights and tutorials.
 
