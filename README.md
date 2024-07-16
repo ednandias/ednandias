@@ -3,10 +3,11 @@
 ### About Me
 
 ### GitHub Stats
-<!--START_SECTION:github-stats-->
-<!--END_SECTION:github-stats-->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednan-dias&show_icons=true&theme=radical)
 
 ### My Techs
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
@@ -17,11 +18,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
 ### Projects
+
 - [AI Web Application](https://github.com/username/ai-web-app): An advanced web application integrating AI features.
 - [Open Source Library](https://github.com/username/open-source-lib): A useful library for web developers.
 - [Personal Blog](https://github.com/username/personal-blog): My personal blog where I share insights and tutorials.
 
 ### Contact
+
 Feel free to text me on:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ednandias/)
 [![Instagram](https://img.shields.io/badge/-Instagram-D62976?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ednan.dias/)

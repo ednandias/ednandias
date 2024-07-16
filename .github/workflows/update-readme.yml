@@ -1,4 +1,4 @@
-name: Update README
+name: Update README with GitHub Stats
 
 on:
   schedule:
@@ -15,15 +15,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Generate GitHub Stats
+      - name: Update README with GitHub Stats
         uses: anuraghazra/github-readme-stats@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: ednan-dias
-
-      - name: Update README
-        run: |
-          sed -i "s|<!--START_SECTION:github-stats-->|<!--START_SECTION:github-stats-->\n![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednan-dias&show_icons=true&theme=radical)\n|g" README.md
+          username: yourusername
 
       - name: Commit and Push Changes
         run: |
