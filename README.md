@@ -1,10 +1,6 @@
 ## Hi there, I'm Ednan. 👋
 
-### GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednan-dias&show_icons=true&theme=algolia)
-
-### Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ednan-dias&layout=compact&theme=algolia)
 
@@ -19,9 +15,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
-### Best Repositories
-
-<div></>
+### Best Repositories :star:
 
 <a href="https://github.com/ednan-dias/mysql-comandos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=mysql-comandos&theme=algolia" />
