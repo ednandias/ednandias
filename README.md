@@ -1,12 +1,14 @@
 ## Hi there, I'm Ednan. 👋
 
-### About Me :stars:
-
-### GitHub Stats :chart_with_upwards_trend:
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednan-dias&show_icons=true&theme=radical)
 
-### Technichal Knowledges :computer:
+## Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ednan-dias&layout=compact&theme=radical)
+
+### Technichal Knowledges
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
@@ -23,7 +25,7 @@
 - [Open Source Library](https://github.com/username/open-source-lib): A useful library for web developers.
 - [Personal Blog](https://github.com/username/personal-blog): My personal blog where I share insights and tutorials.
 
-### Contact :telephone:
+### Contact
 
 Feel free to text me on:
 
