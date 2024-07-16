@@ -21,7 +21,12 @@
 
 ### Best Repositories
 
-![MySQL Comandos](https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=mysql-comandos): A simple guide with a few basic commands to MySQL Database, enjoy it!
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=mysql-comandos" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=git-comandos" />
+</a>
 
 ### Contact
 
