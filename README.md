@@ -18,13 +18,13 @@
 ### Best Repositories :star:
 
 <a href="https://github.com/ednan-dias/mysql-comandos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=mysql-comandos&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=mysql-comandos&theme=algolia" />
 </a>
 <a href="https://github.com/ednan-dias/git-comandos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=git-comandos&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=git-comandos&theme=algolia" />
 </a>
 
-### Contact
+### Contact :phone:
 
 Feel free to text me on:
 
