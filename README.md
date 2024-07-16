@@ -21,10 +21,10 @@
 
 ### Best Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ednan-dias/mysql-comandos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=mysql-comandos" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ednan-dias/git-comandos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=git-comandos" />
 </a>
 
