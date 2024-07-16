@@ -1,12 +1,5 @@
 ## Hi there, I'm Ednan. 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednan-dias&show_icons=true&theme=algolia)
@@ -28,9 +21,7 @@
 
 ### Best Repositories
 
-- [MySQL Comandos](https://github.com/ednan-dias/mysql-comandos): A simple guide with a few basic commands to MySQL Database, enjoy it!
-- [Open Source Library](https://github.com/username/open-source-lib): A useful library for web developers.
-- [Personal Blog](https://github.com/username/personal-blog): My personal blog where I share insights and tutorials.
+![MySQL Comandos](https://github-readme-stats.vercel.app/api/pin/?username=ednan-dias&repo=mysql-comandos): A simple guide with a few basic commands to MySQL Database, enjoy it!
 
 ### Contact
 
