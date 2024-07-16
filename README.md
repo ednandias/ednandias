@@ -31,3 +31,7 @@ Feel free to text me on:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ednandias/)
 - [![Instagram](https://img.shields.io/badge/-Instagram-D62976?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ednan.dias/)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ednan.741@gmail.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednan-dias&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ednan-dias&layout=compact&theme=radical)
