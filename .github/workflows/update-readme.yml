@@ -27,8 +27,8 @@ jobs:
           sed -i '/!\[Most Used Languages\]/d' README.md
 
           # Adiciona estatísticas atualizadas
-          echo -e "\n![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednan-dias&show_icons=true&theme=radical)" >> README.md
-          echo -e "\n![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ednan-dias&layout=compact&theme=radical)" >> README.md
+          echo -e "\n![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednandias&show_icons=true&theme=radical)" >> README.md
+          echo -e "\n![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ednandias&layout=compact&theme=radical)" >> README.md
 
       - name: Commit and Push Changes (if needed)
         run: |
