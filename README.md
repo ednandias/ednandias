@@ -596,6 +596,8 @@ Feel free to text me on:
 
 
 
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednandias&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ednandias&layout=compact&theme=radical)
